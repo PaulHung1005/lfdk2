@@ -14,14 +14,14 @@
  * GNU General Public License for more details.
  *
  */
-#define LFDK_VERSION            "2.0.3"
+#define LFDK_VERSION            "2.0.3A"
 #define LFDK_PROGNAME           "lfdk"
 #define LFDK_VERTEXT            LFDK_PROGNAME" version "LFDK_VERSION", Linux Firmware Debug Kit"
 #define LFDK_MAX_PCIBUF         200
 #define LFDK_MAX_PATH           40
 #define LFDK_MAX_PCIBUS			256
 #define LFDK_MAX_READBUF        512
-#define LFDK_DEFAULT_PCINAME    "/usr/share/misc/pci.ids"
+#define LFDK_DEFAULT_PCINAME    "/usr/share/hwdata/pci.ids"
 #define LFDK_MAX_PCINAME        75
 #define LFDK_BYTE_PER_LINE		16
 
