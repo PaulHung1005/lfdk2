@@ -1,4 +1,12 @@
 # Linux Firmware Debug Kit (lfdk)
+For CentOS 8: (12/29/2021)
+1. su
+2. yum install ncurses-*
+3. make
+4. insmod bin/lfdd_drv.ko
+5. bin/lfdk
+
+# Linux Firmware Debug Kit (lfdk)
 
 Fork to fix for Ubuntu 18.04.4 LTS (Kernel 5.3), how to use:
 
